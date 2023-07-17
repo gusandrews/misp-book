@@ -3,7 +3,7 @@ description: Introduction to MISP - Open Source Threat Intelligence Sharing Plat
 ---
 
 # Introduction
-
+ohio gozaimas
 ![Build Status](https://github.com/MISP/misp-book/actions/workflows/honkit.yml/badge.svg)
 
 ![MISP logo](https://raw.githubusercontent.com/MISP/MISP/2.4/INSTALL/logos/misp-logo.png)
